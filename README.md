@@ -1,6 +1,7 @@
 # Unicorn Analysis – Power BI Dashboard 🦄
 
 ## Overview
+The goal of this project is to derive actionable insights from unicorn startup data using visual analytics.
 This project presents an interactive Power BI dashboard analyzing
 global unicorn startups across countries, industries, and investors.
 
@@ -26,6 +27,11 @@ global unicorn startups across countries, industries, and investors.
 
 ## File
 - `unicorn analysis.pbix` – Power BI dashboard file
+
+## Dashboard Preview
+*(Screenshots of the Power BI dashboard)*
+
+
 
 ## Author
 Kalyani  
